@@ -1,0 +1,10 @@
+{
+  "name": "elderberry",
+  "version": "1.0.4",
+  "description": "Meeting Script with Audio and Video via getUserMedia - React, Node.js, Mediasoup",
+  "author": "Honeyside <support@honeyside.it>",
+  "private": true,
+  "engines": {
+    "node": "18.x.x"
+  }
+}
