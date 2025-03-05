@@ -10,9 +10,6 @@ Since Elderberry is a single meeting script, the live preview is a common meetin
 
 For full privacy, you can use the Argan live preview, which has the same UI and functionality but ensures private access.
 
-## News
-- Argan is now 100% TypeScript-based and fully covered by ESLint (Airbnb configuration).
-
 ## Requirements
 - A private server or cloud instance with at least **2GB of RAM**.
 - Fully automated installation script available for **Ubuntu 24.04 LTS, 22.04 LTS, 20.04 LTS, and 18.04 LTS**.
